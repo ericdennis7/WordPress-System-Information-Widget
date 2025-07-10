@@ -14,6 +14,11 @@ A customizable WordPress dashboard widget that displays detailed system informat
 
 ## 🧑‍💻 Installation
 
+### Option 1:
+
+1. WIP
+
+### Option 2:
 1. Download the ZIP or clone this repo.
 2. Upload to `/wp-content/plugins/` or use the **"Upload Plugin"** option in your WordPress Admin (`Plugins → Add New`).
 3. Activate the plugin.
