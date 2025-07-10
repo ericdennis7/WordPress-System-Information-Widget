@@ -9,14 +9,14 @@ A customizable WordPress dashboard widget that displays detailed system informat
 - Server IP details including geolocation and ISP (via `ipinfo.io`)
 - User agent, login, and security/debug info
 - File system paths (ABSPATH, content, plugin, theme dirs)
-- 🌟 **User-specific section toggles** — saved via AJAX and remembered per user
-- 🔽 Clean expand/collapse box to manage visible sections
+- User-specific section toggles — saved via AJAX and remembered per user
+- Clean expand/collapse box to manage visible sections
 
 ## 🧑‍💻 Installation
 
 ### Option 1:
 
-
+1. WIP
 
 ### Option 2:
 1. Download the ZIP or clone this repo.
