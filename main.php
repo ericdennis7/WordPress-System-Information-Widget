@@ -4,7 +4,10 @@
  * Description: Adds a styled dashboard widget displaying detailed system information.
  * Version: 1.0
  * Author: Eric Dennis
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
+
 
 add_action('wp_dashboard_setup', 'add_styled_system_info_dashboard_widget');
 
